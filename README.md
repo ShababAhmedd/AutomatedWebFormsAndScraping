@@ -16,14 +16,12 @@ This project automates two web forms and scrapes a table from a website using **
 
 ## Prerequisites
 
-Before running the tests, ensure the following tools are installed:
+Before running the tests, ensure the following:
 
 - Java 17 or higher
-- Selenium WebDriver
-- JUnit 5 for testing
-- ChromeDriver (or any other driver, depending on the browser you're using)
+- ChromeDriver (or another WebDriver if you're using a different browser)
 
-Dependencies required for the project are already included in the `build.gradle` file, which you can find in the project directory. The relevant dependencies are:
+The project dependencies for Selenium WebDriver and JUnit 5 are already configured in the `build.gradle` file:
 
 ```groovy
 dependencies {
@@ -31,6 +29,7 @@ dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter'
     implementation 'org.seleniumhq.selenium:selenium-java:4.31.0'
 }
+```
 
 
 
