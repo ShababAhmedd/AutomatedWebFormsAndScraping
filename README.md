@@ -35,12 +35,12 @@ dependencies {
 
 
 ## How to run
-1. **Clone the repo:**
+1. Clone the repo:
     ```bash
     git clone https://github.com/ShababAhmedd/AutomatedWebFormsAndScraping
     ```
 
-2. **Set Up ChromeDriver**
+2. Set Up ChromeDriver
    Make sure **ChromeDriver** is properly set up and available in your system's PATH.
 
    - Download **ChromeDriver** from: [ChromeDriver Download](https://sites.google.com/a/chromium.org/chromedriver/downloads)
@@ -52,7 +52,7 @@ dependencies {
    System.setProperty("webdriver.chrome.driver", "/path/to/chromedriver");
    ```
 
-4. **Run all tests with Gradle:**
+4. Run all tests with Gradle:
     ```bash
     ./gradlew test
     ```
