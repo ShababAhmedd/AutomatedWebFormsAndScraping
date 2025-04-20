@@ -75,7 +75,7 @@ dependencies {
 
 ## Test Report 
 - Task 1: Digital Unite Webform Automation  
-  ![Task 1 Report](screenshots/WebForms.png)
+  ![Task 1 Report](screenshots/PracticeWebforms.png)
 
 - Task 2: WP Everest Guest Registration Form Automation  
   ![Task 2 Report](screenshots/userRegistration.png)
