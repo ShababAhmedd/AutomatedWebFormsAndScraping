@@ -69,7 +69,7 @@ dependencies {
    - You can open the `index.html` file to view test results, or check the console logs for additional details.
   
 ## Video Demonstrations
-- ![Image](https://github.com/user-attachments/assets/f828f7ed-36ef-4845-b900-c2b85aa18ae6)
+- https://github.com/user-attachments/assets/6bd504a9-f522-4473-a348-df2803a7f186
 - [Watch Task 2: WP Everest Guest Registration Form Automation](videos/userRegistration.mp4)
 - [Watch Task 3: DSEBD Data Scraping](videos/TableDataScraps.mp4)
 
