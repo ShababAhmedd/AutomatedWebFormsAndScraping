@@ -67,3 +67,8 @@ dependencies {
 5. Check test results in the **build/reports/tests/test** folder.
    - This folder contains detailed HTML test report for the test class you run.
    - You can open the `index.html` file to view test results, or check the console logs for additional details.
+  
+## Video Demonstrations
+- [Watch Task 1: Digital Unite Webform Automation](videos/WebForms.mp4)
+- [Watch Task 2: WP Everest Guest Registration Form Automation](videos/userRegistration.mp4)
+- [Watch Task 3: DSEBD Data Scraping](videos/TableDataScraps.mp4)
