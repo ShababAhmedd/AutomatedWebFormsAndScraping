@@ -63,4 +63,7 @@ dependencies {
     ./gradlew test --tests "PracticeWebform"
     ```
     Replace "PracticeWebform" with the name of any test class you want to run.
-  
+   
+5. Check test results in the **build/reports/tests/test** folder.
+   - This folder contains detailed HTML test report for the test class you run.
+   - You can open the `index.html` file to view test results, or check the console logs for additional details.
