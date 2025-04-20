@@ -7,11 +7,13 @@ This project automates two web forms and scrapes a table from a website using **
 - Scrape stock market data from [DSEBD Website](https://dsebd.org/latest_share_price_scroll_by_value.php)
 
 
-## Technologies Used
+### Tech Stack
 
-- **Selenium WebDriver**
-- **JUnit 5**
 - **Java 17**
+- **Selenium WebDriver**
+- **JUnit** (for testing)
+- **Gradle** (for project management)
+- **ChromeDriver** (for browser automation)
 
 
 ## Prerequisites
