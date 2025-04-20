@@ -37,7 +37,7 @@ dependencies {
 ## How to run
 Clone the repo:
 ```bash
-git clone <https://github.com/ShababAhmedd/AutomatedWebFormsAndScraping>
+git clone https://github.com/ShababAhmedd/AutomatedWebFormsAndScraping
 ```
 
 
