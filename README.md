@@ -72,8 +72,11 @@ dependencies {
 ### Watch Task 1: Digital Unite Webform Automation.
 https://github.com/user-attachments/assets/91e778f7-96c2-42f6-b6d7-f38663a318c7
 
-[Watch Task 2: WP Everest Guest Registration Form Automation](videos/userRegistration.mp4)
-- [Watch Task 3: DSEBD Data Scraping](videos/TableDataScraps.mp4)
+### Watch Task 2: WP Everest Guest Registration Form Automation
+https://github.com/user-attachments/assets/35cc4efe-19ee-44fa-8fca-6c3b1296e364
+
+### Watch Task 3: DSEBD Data Scraping
+
 
 ## Test Report 
 - Task 1: Digital Unite Webform Automation  
