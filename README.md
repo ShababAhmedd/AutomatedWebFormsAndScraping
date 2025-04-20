@@ -73,7 +73,7 @@ dependencies {
 - [Watch Task 2: WP Everest Guest Registration Form Automation](videos/userRegistration.mp4)
 - [Watch Task 3: DSEBD Data Scraping](videos/TableDataScraps.mp4)
 
-## Test Report Screenshots
+## Test Report 
 - Task 1: Digital Unite Webform Automation  
   ![Task 1 Report](screenshots/WebForms.png)
 
