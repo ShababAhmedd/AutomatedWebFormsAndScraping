@@ -42,6 +42,15 @@ git clone https://github.com/ShababAhmedd/AutomatedWebFormsAndScraping
 
 2. **Set Up ChromeDriver**
 
-3. **x**
+3. **Run all tests with Gradle:**
+```bash
+./gradlew test
+```
+This will execute all the tests in the project.
 
+To run a specific test class (e.g., DigitalUniteForm), use:
+```bash
+./gradlew test --tests "PracticeWebform"
+```
+Replace "PracticeWebform" with the name of any test class you want to run.
   
