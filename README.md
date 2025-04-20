@@ -35,13 +35,13 @@ dependencies {
 
 
 ## How to run
-#### 1. Clone the repo:
+1. **Clone the repo:**
 ```bash
 git clone https://github.com/ShababAhmedd/AutomatedWebFormsAndScraping
 ```
 
-#### 2. Set Up ChromeDriver
+2. **Set Up ChromeDriver**
 
-#### 
+3. **x**
 
   
