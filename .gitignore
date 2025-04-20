@@ -1,0 +1,10 @@
+# Gradle-related
+.gradle/
+build/
+gradle/
+
+# IntelliJ IDEA project files
+.idea/
+
+# Logs
+logs/
