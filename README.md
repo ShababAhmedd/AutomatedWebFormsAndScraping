@@ -2,9 +2,9 @@
 
 ## Description
 This project automates two web forms and scrapes a table from a website using **Selenium WebDriver** and **JUnit**. The main tasks are:
-1. Automating the submission of a web form.
-2. Automating the user registration form.
-3. Scraping data from a table on a webpage and storing it in a text file.
+- Automate form submission on [Digital Unite Webform](https://www.digitalunite.com/practice-webform-learners)
+- Automate guest registration on [WP Everest Form](https://demo.wpeverest.com/user-registration/guest-registration-form/)
+- Scrape stock market data from [DSEBD Website](https://dsebd.org/latest_share_price_scroll_by_value.php)
 
 
 ## Technologies Used
