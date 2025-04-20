@@ -34,7 +34,6 @@ dependencies {
 ```
 
 
-web-automation-project/ ├── src/ │ └── main/java/ │ ├── automation/ │ │ ├── DigitalUniteForm.java │ │ ├── WpEverestForm.java │ │ └── DsebdScraper.java ├── test-output/ ├── reports/ ├── videos/ ├── screenshots/ ├── README.md ├── build.gradle └── .gitignore
 
 
   
