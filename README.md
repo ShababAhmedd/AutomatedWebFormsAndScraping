@@ -69,7 +69,7 @@ dependencies {
    - You can open the `index.html` file to view test results, or check the console logs for additional details.
   
 ## Video Demonstrations
-- [Watch Task 1: Digital Unite Webform Automation](videos/WebForms.mp4)
+- ![Image](https://github.com/user-attachments/assets/f828f7ed-36ef-4845-b900-c2b85aa18ae6)
 - [Watch Task 2: WP Everest Guest Registration Form Automation](videos/userRegistration.mp4)
 - [Watch Task 3: DSEBD Data Scraping](videos/TableDataScraps.mp4)
 
