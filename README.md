@@ -35,10 +35,10 @@ dependencies {
 
 
 ## How to run
-1. Clone the repo:
-   ```bash
-   git clone <repo-url>
-   ```
+Clone the repo:
+```bash
+git clone <https://github.com/ShababAhmedd/AutomatedWebFormsAndScraping>
+```
 
 
 
