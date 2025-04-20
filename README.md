@@ -81,4 +81,4 @@ dependencies {
   ![Task 2 Report](screenshots/userRegistration.png)
 
 - Task 3: DSEBD Data Scraping  
-  ![Task 3 Report](screenshots/TableDataScraps.png)
+  ![Task 3 Report](screenshots/TableDataScrap.png)
