@@ -41,8 +41,18 @@ dependencies {
     ```
 
 2. **Set Up ChromeDriver**
+   Make sure **ChromeDriver** is properly set up and available in your system's PATH.
 
-3. **Run all tests with Gradle:**
+   - Download **ChromeDriver** from: [ChromeDriver Download](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+   - Ensure that the downloaded `chromedriver` binary is added to your system’s **PATH**.
+   - Alternatively, specify the path to ChromeDriver in your test code if it’s not in the PATH.
+
+   Example (if you're setting it manually in your code):
+   ```java
+   System.setProperty("webdriver.chrome.driver", "/path/to/chromedriver");
+   ```
+
+4. **Run all tests with Gradle:**
     ```bash
     ./gradlew test
     ```
