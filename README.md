@@ -1,4 +1,4 @@
-# Web Automation Project
+# Web Automation and Scraping Project
 
 ## Description
 This project automates two web forms and scrapes a table from a website using **Selenium WebDriver** and **JUnit**. The main tasks are:
