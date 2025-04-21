@@ -88,3 +88,20 @@ https://github.com/user-attachments/assets/08b10d0c-2160-4a2f-a7db-a85d590862df
 
 - Task 3: DSEBD Data Scraping  
   ![Task 3 Report](screenshots/TableDataScrap.png)
+
+
+## Project Structure
+```
+.
+├── src
+│   ├── main
+│   │   └── java
+│   └── test
+│       ├── java
+│       └── resources
+├── screenshots
+│   ├── PracticeWebform.png
+│   ├── TableDataScrap.png
+│   └── userRegistration.png
+├── README.md
+```
