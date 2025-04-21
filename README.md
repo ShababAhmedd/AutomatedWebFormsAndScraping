@@ -93,16 +93,16 @@ https://github.com/user-attachments/assets/08b10d0c-2160-4a2f-a7db-a85d590862df
 ## Project Structure
 ```
 .
+├── DSE.txt
 ├── src
 │   ├── main
 │   │   └── java
 │   └── test
-│       ├── java
-│       └── resources
-├── screenshots
-│   ├── PracticeWebform.png
-│   ├── TableDataScrap.png
-│   └── userRegistration.png
+|        ├── java
+|        │   ├── PracticeWebform.java
+|        │   ├── TableDataScrap.java
+|        │   └── UserRegistration.java
+|        └── resources  
 ├── README.md
 
 ```
