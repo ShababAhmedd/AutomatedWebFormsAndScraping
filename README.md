@@ -91,6 +91,7 @@ https://github.com/user-attachments/assets/08b10d0c-2160-4a2f-a7db-a85d590862df
 
 
 ## Project Structure
+```
 .
 ├── src
 │   ├── main
@@ -104,3 +105,4 @@ https://github.com/user-attachments/assets/08b10d0c-2160-4a2f-a7db-a85d590862df
 │   └── userRegistration.png
 ├── README.md
 
+```
