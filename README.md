@@ -97,6 +97,7 @@ https://github.com/user-attachments/assets/08b10d0c-2160-4a2f-a7db-a85d590862df
 ├── src
 │   ├── main
 │   │   └── java
+|   |   └── resources
 │   └── test
 |        ├── java
 |        │   ├── PracticeWebform.java
